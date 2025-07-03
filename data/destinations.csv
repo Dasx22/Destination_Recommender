@@ -1,0 +1,21 @@
+destination_id,name,country,type,activities,climate,budget_level,popularity_score
+1,Paris,France,Cultural,"Museums,Art,Food",Temperate,3,9.5
+2,Tokyo,Japan,Cultural,"Temples,Food,Shopping",Temperate,3,9.2
+3,Bali,Indonesia,Beach,"Beach,Spa,Nature",Tropical,2,8.8
+4,New York,USA,Urban,"Shopping,Museums,Shows",Temperate,4,9.0
+5,Rome,Italy,Cultural,"Museums,Food,History",Mediterranean,3,9.3
+6,Bangkok,Thailand,Urban,"Food,Temples,Shopping",Tropical,2,8.5
+7,London,UK,Cultural,"Museums,History,Parks",Temperate,4,9.1
+8,Dubai,UAE,Urban,"Shopping,Architecture,Desert",Desert,4,8.7
+9,Sydney,Australia,Beach,"Beach,Opera,Wildlife",Temperate,3,8.6
+10,Barcelona,Spain,Cultural,"Museums,Food,Architecture",Mediterranean,2,8.9
+11,Amsterdam,Netherlands,Cultural,"Museums,Canals,Cycling",Temperate,3,8.4
+12,Prague,Czech Republic,Cultural,"Architecture,History,Beer",Temperate,2,8.2
+13,Santorini,Greece,Beach,"Beach,Sunset,Photography",Mediterranean,3,9.0
+14,Kyoto,Japan,Cultural,"Temples,Gardens,Food",Temperate,3,8.8
+15,Venice,Italy,Cultural,"Architecture,Canals,Art",Mediterranean,3,8.7
+16,Istanbul,Turkey,Cultural,"History,Food,Bazaars",Mediterranean,2,8.3
+17,Cape Town,South Africa,Adventure,"Wildlife,Wine,Nature",Mediterranean,3,8.1
+18,Reykjavik,Iceland,Adventure,"Nature,Geysers,Photography",Cold,4,7.9
+19,Marrakech,Morocco,Cultural,"Markets,Food,Architecture",Desert,2,8.0
+20,Singapore,Singapore,Urban,"Food,Shopping,Gardens",Tropical,3,8.6
